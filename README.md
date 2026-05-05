@@ -19,11 +19,7 @@
 
 ## Overview
 
-This project solves the four challenges of the GWOSC Open Data Workshop 2026, progressing from basic signal visualization to a full Bayesian parameter estimation pipeline. The signals analyzed correspond to binary black hole (BBH) mergers injected into both simulated Gaussian noise and real LIGO O2 detector data.
-
-<!-- Add a banner image or a representative Q-transform plot here -->
-<!-- ![Banner](images/banner.png) -->
-
+This project solves the four challenges of the GWOSC Open Data Workshop 2026, progressing from basic signal visualization to a full Bayesian parameter estimation pipeline. The signals analyzed correspond to binary black hole (BBH) mergers injected into both simulated Gaussian noise and real LIGO O2 detector data. The file `GWOSC_workshop.ipynb` contains the code, and more detailed explanaition and discussion.
 ---
 
 ## Challenge Structure
