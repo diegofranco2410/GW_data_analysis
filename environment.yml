@@ -1,0 +1,36 @@
+channels:
+- conda-forge
+dependencies:
+# Base
+- python=3.12.13
+- pip=26.0.1
+- numpy=1.26.4
+- scipy=1.13.1
+- pandas=2.3.3
+- matplotlib=3.10.8
+- wget=1.25.0
+# Jupyter
+- jupyter=1.1.1
+# Specifics
+- astropy=7.0.1
+- bilby=2.6.0
+- corner=2.2.3
+- dynesty=2.1.5
+- gwosc=0.8.1
+- gwpy=3.0.14
+- h5py=3.13.0
+- lalsuite=7.25
+- ligo.skymap=2.3.0
+- pycbc=2.10.0
+- pygcn=1.0.2
+- pesummary=1.6.1
+- gwpopulation=0.10.0
+- nestle=0.2.0
+- pyhough=0.0.10
+# For compatibility with Colab
+- cryptography=43.0.0
+- datasets=3.6.0
+# Development dependencies
+- codespell=2.4.2
+- lychee=0.23.0
+name: odw-py312
